@@ -30,10 +30,29 @@ A responsive web application that provides real-time weather updates based on us
 - OpenWeatherMap API: Provides real-time weather data for cities and geolocations.
 
 ---
+
 ## Technologies Used
-HTML5: Markup language for structuring the application.
-CSS3: Styling and designing a responsive user interface.
-JavaScript: Adding interactivity and fetching weather data using APIs.
-   
+- HTML5: Markup language for structuring the application.
+- CSS3: Styling and designing a responsive user interface.
+- JavaScript: Adding interactivity and fetching weather data using APIs.
+  
+---
+
+## Usage
+- Grant Location Access: The app uses geolocation to fetch weather details for your current location.
+- Search Weather: Enter a city name in the search bar to view weather details for that city.
+
+---
+
+## Contact
+If you have any questions or feedback, feel free to contact me via email:
+
+Lokesh Patil: lokeshb.p.2025@gmail.com
+
+---
+
+## License
+This project is open-source under the MIT License.
+
 
 
