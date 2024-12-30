@@ -11,7 +11,7 @@ A responsive web application that provides real-time weather updates based on us
 - User-Friendly Interface: Simple and intuitive UI developed with HTML, CSS, and JavaScript for a seamless user experience
 
 ## Live Demo
-[Try it now](https://weatherapp-by-lokesh.netlify.app)
+### [Try it now](https://weatherapp-by-lokesh.netlify.app)
 
 ---
 
